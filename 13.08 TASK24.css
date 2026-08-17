@@ -1,0 +1,18 @@
+ body {
+            margin: 0;
+            background-image: url("sakthi.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+        }
+
+        .content {
+            padding: 50px;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        h1 {
+            color: darkblue;
+        }

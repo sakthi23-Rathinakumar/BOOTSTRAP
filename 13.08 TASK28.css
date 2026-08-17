@@ -1,0 +1,38 @@
+/* Heading uses Google Font */
+        h1, h2 {
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Paragraph uses system font */
+        p {
+            font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+            font-size: 17px;
+            line-height: 1.6;
+        }
+
+        body {
+            margin: 0;
+            padding: 40px;
+            background-color: #f2f6ff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 12px;
+        }
+
+        h1 {
+            color: #2454a6;
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }

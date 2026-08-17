@@ -1,0 +1,19 @@
+.arial {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+        }
+
+        .times {
+            font-family: "Times New Roman", serif;
+            font-size: 20px;
+        }
+
+        .verdana {
+            font-family: Verdana, sans-serif;
+            font-size: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: blue;
+        }

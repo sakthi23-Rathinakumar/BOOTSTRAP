@@ -1,0 +1,20 @@
+ /* Universal Selector */
+        * {
+            font-family: Arial;
+        }
+
+        /* Element Selector */
+        h1 {
+            color: red;
+        }
+
+        /* Class Selector */
+        .blue-text {
+            color: blue;
+        }
+
+        /* ID Selector */
+        #special {
+            background-color: yellow;
+            color: green;
+        }

@@ -1,0 +1,39 @@
+ body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            padding: 40px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1565c0;
+        }
+
+        .box {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Demonstrates font-size */
+        .font-size {
+            font-size: 30px;
+        }
+
+        /* Demonstrates font-weight */
+        .font-weight {
+            font-weight: bold;
+        }
+
+        /* Demonstrates font-style */
+        .font-style {
+            font-style: italic;
+        }
+
+        .label {
+            color: #1565c0;
+            font-weight: bold;
+        }
